@@ -3,8 +3,8 @@ package cn.apelx.tool.math;
 import java.math.BigDecimal;
 
 /**
- * 提供精确的浮点数运算，包括加减乘除和四舍五入。
- * @author zgm
+ * 精确数学计算
+ * @author lx
  */
 public class MathUtils {
 
